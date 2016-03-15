@@ -20,3 +20,8 @@ Environment variables
 =====================
 Add the location of the root HazImp directory to PYTHONPATH. e.g. (in .bashrc)
 export HAZIMPPATH=${HOME}/sandpits/hazimp
+
+Branch
+======
+
+This branch has modified vulnerability curves for severe wind, for use in modelling the impacts of a Cairns TC.
